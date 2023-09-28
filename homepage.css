@@ -1,0 +1,70 @@
+nav{
+	background:black;
+	color:white;
+	
+}
+h1,ul{
+	text-align:center;
+
+	
+}h1,ul{
+	padding:10px;
+}
+li{
+	display:inline;
+
+	}
+li:hover{
+	color:red;
+	cursor:pointer;
+}
+.image{
+	
+	
+	text-align:center;
+	
+}
+.b1{
+	border-width:2px;
+	border-color:black;
+	border-style:solid;
+	width:180px;
+	height:210px;
+	display:inline-block;
+	
+}
+h2{
+	background:black;
+	color:white;
+	display:inline;
+}
+h2:hover{
+	color:blue;
+	cursor:pointer;
+}
+
+.b2{
+	border-width:2px;
+	border-color:black;
+	border-style:solid;
+	width:180px;
+	height:210px;
+	display:inline-block;
+	
+}
+.b3{
+	border-width:2px;
+	border-color:black;
+	border-style:solid;
+	width:180px;
+	height:210px;
+	display:inline-block;
+	
+}
+.contact{
+	background:black;
+	color:white;
+}
+form{
+	text-align:center;
+}
